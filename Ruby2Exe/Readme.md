@@ -1,0 +1,2 @@
+- gem install ocran
+- ocran Ruby-2-Exe.rb
