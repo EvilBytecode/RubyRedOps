@@ -7,7 +7,7 @@
 RubyRedOps is a Ruby-based tool or project focusing on offensive security operations. This section provides an overview of its functionalities and use cases.
 
 ## Tools Currently Supported:
-- **Callback Shellcode Execution**: Demonstrates the execution of shellcode via callback mechanisms. Includes methods for:
+- **Callback Shellcode Execution**: Demonstrates the execution of shellcode via callback mechanisms.
 - **Enabling All Privilege Tokens**: Activates all available privilege tokens to escalate or manipulate permissions.
 - **Enumerating Processes with Ruby**: Uses Ruby scripts to discover and list active processes on the system.
 - **Memory Mapping Injection**: Injects malicious code into local processes through memory mapping, aiming to exploit vulnerabilities.
