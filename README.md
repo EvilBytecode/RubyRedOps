@@ -15,3 +15,7 @@ RubyRedOps is a Ruby-based tool or project focusing on offensive security operat
 - **Ruby2Exe**: Use Orcan Package to convert Ruby to Executable
 - **AntiAnalysis**: Anti Analysis Technique, Running Processes,Cpu Processors and RAM Check.
 - **ApiHammering**: API Hammering consists of carrying out various actions to delay the malware.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
